@@ -184,24 +184,3 @@ You can add screenshots such as:
 * Admin Login
 * Face Capture
 * Attendance CSV
-
-Example:
-
-```
-![Home Page](screenshots/home.png)
-```
-
----
-
-## 📄 License
-
-This project is open-source and free to use for educational purposes.
-
----
-
-## 👨‍💻 Author
-
-**Sivan Sakthivel**
-Final Year BSc Computer Science Project — Face Recognition Attendance System
-
----
