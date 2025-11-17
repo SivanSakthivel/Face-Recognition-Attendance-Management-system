@@ -1,5 +1,11 @@
 # 📚 Face Recognition Based Attendance System
 
+face_attendance.png
+
+<p align="center">
+  <img src="Attendance-Management-system-using-face-recognition/face_attendance.png" alt="FaceTrack Logo" width="200">
+</p>
+
 A Flask Web Application Using OpenCV & Machine Learning
 
 This is a **Face Recognition Based Attendance System** built using **Python**, **OpenCV**, **Flask**, and **KNN Machine Learning Model**.
